@@ -1,0 +1,19 @@
+{
+  "name": "Mono Helper",
+  "short_name": "MonoHelper",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "Simple, kind guidance and reminders while you recover from mono.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
+
